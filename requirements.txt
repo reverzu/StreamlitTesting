@@ -1,10 +1,11 @@
-streamlit
 streamlit.components.v1
-mediapipe
 numpy
 random
 os
 keras
 tensorflow
 base64
-opencv-python==4.6.0.66
+streamlit
+streamlit_webrtc
+opencv-python
+mediapipe==0.8.9.1
