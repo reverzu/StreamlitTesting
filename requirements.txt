@@ -1,0 +1,10 @@
+streamlit
+streamlit.components.v1
+mediapipe
+numpy
+random
+os
+keras
+tensorflow
+base64
+opencv-python
